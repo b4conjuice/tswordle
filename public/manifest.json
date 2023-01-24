@@ -1,0 +1,8 @@
+{
+  "name": "swordle",
+  "short_name": "swordle",
+  "lang": "en-US",
+  "start_url": "/",
+  "display": "standalone",
+  "scope": "/"
+}
